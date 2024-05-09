@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compose Bottom Navigation Bar</string>
+
+    <string name="compose">Compose</string>
+    <string name="screen_under_construction">Screen Under Construction</string>
+    <string name="home">Home Screen</string>
+    <string name="profile">Profile Screen</string>
+    <string name="notification">Notification Screen</string>
+    <string name="inbox">Inbox Screen</string>
+</resources>
