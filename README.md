@@ -2,6 +2,12 @@
 
 This project demonstrates how to create a bottom navigation bar in Jetpack Compose with dual pane support for various screen sizes, including landscape, tablets and desktops. Additionally, it includes a modern drawer for navigation.
 
+# Demo Video
+
+| Small Device | Medium | Tablet |
+| ------------- | ------------- | ------------- |
+| ![smallphone](https://github.com/waqas028/Bottom_Nav_Bar_Compose/assets/96041723/9830d1ee-9157-415f-a5a0-af2e51bafe21) | ![medium phone](https://github.com/waqas028/Bottom_Nav_Bar_Compose/assets/96041723/6d6bc8a7-0e99-4109-bfbd-532504706e79) | ![tablets](https://github.com/waqas028/Bottom_Nav_Bar_Compose/assets/96041723/6efe8b28-4237-4fa8-b9e6-6e6d2269cf1c) |
+
 ## Features
 
 - Bottom navigation bar with multiple destinations.
@@ -12,8 +18,6 @@ This project demonstrates how to create a bottom navigation bar in Jetpack Compo
 - Responsive design for different screen sizes.
 
 ## Getting Started
-
-## Implementation
 
 ### 1. Bottom Navigation Bar
 
